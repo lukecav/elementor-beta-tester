@@ -3,7 +3,7 @@
  * Plugin Name: Elementor Beta Tester
  * Plugin URI: https://github.com/lukecav/elementor-beta-tester/
  * Description: Run bleeding edge versions of Elementor from the Pojo.me Github repo. This will replace your installed version of Elementor with the latest tagged release on Github - use with caution, and not on production sites. You have been warned.
- * Version: 1.0
+ * Version: 1.01
  * Author: Luke Cavanagh
  * Author URI: https://github.com/lukecav
  * Requires at least: 4.4
