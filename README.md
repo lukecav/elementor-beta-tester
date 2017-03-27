@@ -8,7 +8,7 @@ Requires at least: 4.4
 Tested up to: 4.7
 Stable Tag: 1.0
 
-Run bleeding edge versions of Elementor from our Github repo. This will replace your installed version of Elementor with the latest tagged release on Github - use with caution, and not on production sites. You have been warned.
+Run bleeding edge versions of Elementor from the Pojo.me Github repo. This will replace your installed version of Elementor with the latest tagged release on Github - use with caution, and not on production sites. You have been warned.
 
 == Description ==
 
