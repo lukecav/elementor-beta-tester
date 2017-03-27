@@ -4,7 +4,7 @@ Author URI: https://elementor.com/
 Plugin URI: https://github.com/lukecav/elementor-beta-tester
 
 **Contributors:** [lukecav](https://profiles.wordpress.org/lukecavanagh)
-**Tags:** beta, beta tester, bledding edge, page builder, editor, elementor, builder, visual editor, front-end editor, design, drag and drop builder, front-end builder, landing page, page builder plugin, site builder, template builder, visual builder, website builder, wysiwyg  
+**Tags:** beta, beta tester, bledding edge, github, updater, page builder, editor, elementor, builder, visual editor, front-end editor, design, drag and drop builder, front-end builder, landing page, page builder plugin, site builder, template builder, visual builder, website builder, wysiwyg  
 **Requires at least:** 4.4  
 **Tested up to:** 4.7  
 **Stable tag:** 1.01 
