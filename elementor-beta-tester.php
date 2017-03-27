@@ -62,7 +62,7 @@ elseif ( ! class_exists( 'EM_Beta_Tester' ) ) :
 				'api_url'            => 'https://api.github.com/repos/pojome/elementor',
 				'github_url'         => 'https://github.com/pojome/elementor',
 				'requires'           => '4.4',
-				'tested'             => '4.4'
+				'tested'             => '4.7'
 			);
 			add_filter( 'pre_set_site_transient_update_plugins', array( $this, 'api_check' ) );
 			add_filter( 'plugins_api', array( $this, 'get_plugin_info' ), 10, 3 );
