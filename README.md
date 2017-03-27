@@ -2,11 +2,18 @@
 Run the beta versions of Elementor from Github
 Author URI: https://elementor.com/
 Plugin URI: https://github.com/lukecav/elementor-beta-tester
-Contributors: lukecav
-Tags: elementor, page builder, beta, beta tester, bleeding edge
-Requires at least: 4.4
-Tested up to: 4.7
-Stable Tag: 1.01
+
+**Contributors:** [lukecav](https://profiles.wordpress.org/lukecavanagh)
+**Tags:** beta, beta tester, bledding edge, page builder, editor, elementor, builder, visual editor, front-end editor, design, drag and drop builder, front-end builder, landing page, page builder plugin, site builder, template builder, visual builder, website builder, wysiwyg  
+**Requires at least:** 4.4  
+**Tested up to:** 4.7  
+**Stable tag:** 1.01 
+**License:** GPLv3  
+**License URI:** https://www.gnu.org/licenses/gpl-3.0.html  
+
+The most advanced frontend drag & drop page builder. Create high-end, pixel perfect websites at record speeds. Any theme, any page, any design.
+
+## Description ##
 
 Run bleeding edge versions of Elementor from the Pojo.me Github repo. This will replace your installed version of Elementor with the latest tagged release on Github - use with caution, and not on production sites. You have been warned.
 
@@ -20,10 +27,10 @@ Just like with any plugin, this will not check for updates on every admin page l
 
 Based on WP_GitHub_Updater by Joachim Kudish and code by Patrick Garman and WooCommerce Beta Tester by Mike Jolley and Claudio Sanches.
 
-== Changelog ==
+## Changelog ##
 
-1.01
+### 1.01 ###
 * Minor updates.
 
-1.0
+### 1.0 ###
 * First release.
