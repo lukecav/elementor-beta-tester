@@ -18,7 +18,7 @@ Easily run the latest tagged version of [Elementor](https://wordpress.org/plugin
 
 Just like with any plugin, this will not check for updates on every admin page load unless you explicitly tell it to. You can do this by clicking the "Check Again" button from the WordPress updates screen or you can set the `EM_BETA_TESTER_FORCE_UPDATE` to true in your `wp-config.php` file.
 
-Based on WP_GitHub_Updater by Joachim Kudish and code by Patrick Garman.
+Based on WP_GitHub_Updater by Joachim Kudish and code by Patrick Garman and WooCommerce Beta Tester by Mike Jolley and Claudio Sanches.
 
 == Changelog ==
 
