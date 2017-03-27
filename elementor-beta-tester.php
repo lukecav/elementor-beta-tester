@@ -5,7 +5,7 @@
  * Description: Run bleeding edge versions of Elementor from our Github repo. This will replace your installed version of Elementor with the latest tagged release on Github - use with caution, and not on production sites. You have been warned.
  * Version: 1.0
  * Author: Luke Cavanagh
- * Author URI: https://elementor.com/
+ * Author URI: https://github.com/lukecav
  * Requires at least: 4.4
  * Tested up to: 4.7
  * Based on WP_GitHub_Updater by Joachim Kudish.
