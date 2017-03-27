@@ -22,5 +22,8 @@ Based on WP_GitHub_Updater by Joachim Kudish and code by Patrick Garman and WooC
 
 == Changelog ==
 
+1.01
+* Minor updates.
+
 1.0
 * First release.
