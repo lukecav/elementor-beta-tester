@@ -7,7 +7,7 @@
  * Author: Luke Cavanagh
  * Author URI: https://github.com/lukecav
  * Requires at least: 4.4
- * Tested up to: 4.7
+ * Tested up to: 4.9.4
  * Based on WP_GitHub_Updater by Joachim Kudish.
  */
 if ( ! defined( 'ABSPATH' ) ) {
